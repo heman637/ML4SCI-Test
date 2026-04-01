@@ -1,0 +1,10 @@
+Metric,Score
+AUC  ← primary metric,0.9773
+Average Precision (AP),0.6316
+Optimal Threshold (Youden J),0.5242
+Recall @ optimal threshold,0.9538
+Precision @ optimal threshold,0.1250
+F1 @ optimal threshold,0.2210
+Recall @ 0.5 threshold,0.9538
+Precision @ 0.5 threshold,0.1116
+F1 @ 0.5 threshold,0.1999
